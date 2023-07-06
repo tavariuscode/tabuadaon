@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(230, 217, 217);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: rgb(183, 45, 45);
+    text-align: center;
+}
+
+section{
+    background-color: rgb(55, 112, 202);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+select#seltab{
+    width: 500px;
+    text-align: center;
+   
+}
+
+
+   
+   
+
+
+div select{
+    padding: 20px;
+    width: 250px;
+    background-color: #ffffff;
+    border-radius: 5%;
+    overflow: hidden;
+    text-align: center;
+    font-size: 12pt;
+    
+}
+
+footer{
+    color: rgb(19, 18, 18);
+    text-align: center;
+    font-style: italic;
+    font-variant: small-caps;
+    padding: 10px;
+}
